@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Bassem MEGHICHE <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyMGtwaWl0bWZ5NmJiZWNjdXhpbDRzbWR0ZWZuOWtleThma25sN2E1YSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hDSGolpaNZTK9OQJqk/200.gif" width="30px"></h1>
 <h4 align="center">Also known as B4ssem
-<h3 align="center">Tech Enthusiast, 2nd year Multimedia Bachelor student,<br> Web development and interactive media course </h3>
+<h3 align="center">Tech Enthusiast, 3rd year Multimedia Bachelor student,<br> Web development and interactive media course </h3>
 <p><img align="right" style="height: 25rem;" src="https://b4ssem.com/documents/IMG-20251108-WA00122.jpg" alt="standing cat" /></p>
 <br>
   
